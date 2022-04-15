@@ -2,6 +2,152 @@
   "version" : "1.0.0",
   "disable" : null,
   "requiredInstallableUnits" : [ {
+    "id" : "org.eclipse.draw2d.feature.group"
+  }, {
+    "id" : "org.eclipse.egit.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.codegen.ecore.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.codegen.ecore.ui.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.codegen.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.codegen.ui.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.common.ui.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.converter.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.databinding.edit.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.databinding.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.ecore.edit.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.ecore.editor.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.edit.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.edit.ui.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.mapping.ecore.editor.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.mapping.ecore.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.mapping.feature.group"
+  }, {
+    "id" : "org.eclipse.emf.mapping.ui.feature.group"
+  }, {
+    "id" : "org.eclipse.equinox.p2.discovery.feature.feature.group"
+  }, {
+    "id" : "org.eclipse.gef.feature.group"
+  }, {
+    "id" : "org.eclipse.jgit.feature.group"
+  }, {
+    "id" : "org.eclipse.jgit.gpg.bc.feature.group"
+  }, {
+    "id" : "org.eclipse.jgit.http.apache.feature.group"
+  }, {
+    "id" : "org.eclipse.jgit.ssh.apache.feature.group"
+  }, {
+    "id" : "org.eclipse.jgit.ssh.jsch.feature.group"
+  }, {
+    "id" : "org.eclipse.m2e.feature.feature.group"
+  }, {
+    "id" : "org.eclipse.m2e.sse.ui.feature.feature.group"
+  }, {
+    "id" : "org.eclipse.nebula.widgets.nattable.extension.glazedlists.feature.feature.group"
+  }, {
+    "id" : "org.eclipse.wst.common.fproj.feature.group"
+  }, {
+    "id" : "org.eclipse.wst.common_core.feature.feature.group"
+  }, {
+    "id" : "org.eclipse.wst.xml_core.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.configurator.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.defaultlibs.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.demo.di.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.component.alfrescooutput.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.component.di.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.component.enhance.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.component.exchange.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.component.expressionbuilder.feature.feature.group"
+  }, {
     "id" : "org.talend.lite.designer.component.rs.consumer.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.component.sqlbuilder.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.component.unified.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.documentation.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.filemultischemas.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.fileoutputxml.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.javamonitor.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.joblet.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.maven.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.maven.m2.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.routine.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.scd.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.designer.webservice.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.components.tis.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.debug.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.ftp.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.json.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.preview.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.resources.exportjob.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.sapelt.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.extrafeature.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.help.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.license.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.onboarding.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.patchsystem.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.publishcloud.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.remoterun.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.repository.remote.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.repository.remote.git.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.tacokit.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.talendforge.registration.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.tcompv0.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.tutorial.feature.feature.group"
+  }, {
+    "id" : "org.talend.studio.components.tcompv0.jdbc.feature.feature.group"
   } ]
 }
